@@ -1,2 +1,3 @@
 # hello-world
-intro to learn GIT
+## intro
+to learn GitHub and Git
